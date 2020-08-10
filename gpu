@@ -1,0 +1,5 @@
+#!/bin/bash
+case $BLOCK_BUTTON in
+	1) xterm -e  gpu-top
+esac
+echo -ne " GPU: " &&  nvidia-smi --format=nounits,csv,noheader --query-gpu=memory.used,pstate,temperature.gpu
