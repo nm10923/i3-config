@@ -9,6 +9,7 @@ My i3 config and all the scripts I use for it
 # Optional/Reccomened Packages
 - nvidia-utils or an AMD alternative
 - picom, but you can use your own compositor (or just not use a compositor)
+- Kripton (not a package, but it's the GTK theme I use)
 
 # Why did you upload your shitty rice to github?
 If my computer dies, I'll at least have a somewhat recent backup of my rice.
