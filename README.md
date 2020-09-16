@@ -4,8 +4,8 @@ My i3gaps config and all the scripts I use for it
 # Required Packages 
 - i3gaps (of course)
 - i3blocks 
-- acpi
-- nvidia-utils
+- acpi (for battery module)
+- nvidia-utils (for gpu module)
 
 # Why did you upload your shitty rice to github?
 If my computer dies, I'll at least have a somewhat recent backup of my rice.
