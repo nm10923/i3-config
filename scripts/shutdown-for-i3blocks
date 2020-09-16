@@ -1,0 +1,5 @@
+#!/bin/bash
+echo ""
+case $BLOCK_BUTTON in
+	1) i3-nagbar -t warning -m "What do you want to do?" -B "Shutdown" "shutdown now" -B "Logout" "i3-msg exit" -B "Restart" "restart" 
+esac
